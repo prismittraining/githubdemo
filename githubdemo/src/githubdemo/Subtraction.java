@@ -8,7 +8,7 @@ public class Subtraction {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int c=sub(5,2);
-		System.out.println("sub of two numbers"+c);
+		System.out.println("sub of two numbers:"+c);
 	}
 
 }
